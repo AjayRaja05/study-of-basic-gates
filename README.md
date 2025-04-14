@@ -65,15 +65,35 @@ Y= A⊕B
 **PROGRAM**
 
  module sample(a,b,yand,yor,ynot,ynand,yxor,ynor,yxnor);
+
+ 
  input a,b;
+
+ 
  output yand,yor,ynot,ynand,yxor,ynor,yxnor;
+
+ 
  and(yand,a,b);
+
+ 
  or(yor,a,b);
+
+ 
  not(ynot,a);
+
+ 
  nand(ynand,a,b);
+
+ 
  xor(yxor,a,b);
+
+ 
  nor(ynor,a,b);
+
+ 
  xnor(yxnor,a,b);
+
+ 
  endmodule
 
  
