@@ -1,4 +1,8 @@
-### study-of-basic-gates
+NAME: T.AjayRaja Rathinam
+REGISTER NO: 212224240006
+
+
+### study of basic gates
 
 **AIM:** 
 
